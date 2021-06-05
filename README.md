@@ -3,5 +3,8 @@ This project is describing a few various methods for solutions to the Wave Equat
 
 The equation is a 2nd Order, nonlinear partial differential equation. Three approaches are compared.  An exact analytical solution, a finite difference approach, and solution using a convolution kernel.
 
+# Exact Analytical Approach
+
+![kwave_diffusion_radial](https://user-images.githubusercontent.com/53169576/120907005-38606900-c65e-11eb-8bf6-6b533309aed1.png)
 
 
