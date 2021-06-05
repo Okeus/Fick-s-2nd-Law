@@ -8,7 +8,7 @@ The equation is a 2nd Order, nonlinear partial differential equation. Three appr
 # Exact Analytical Approach. kwave_diff.m
 This approach uses k-Wave bioHeatExact() function to solve the wave equation for oxygen diffusion in water.  The concept is to simulate oxygen diffusion from a Perfluorocarbon microdroplet, though this is a bit simplified generalize the method.  The solution is described in detail here.
 
-Initial Condition.  Sinle droplet with radius of 1 micrometer that is saturated with oxygen.
+Initial Condition.  Single droplet with radius of 1 micrometer that is saturated with oxygen.
 
 ![image](https://user-images.githubusercontent.com/53169576/120907106-3e0a7e80-c65f-11eb-991f-0f8fc36d07af.png)
 
