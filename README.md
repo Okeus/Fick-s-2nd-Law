@@ -16,4 +16,11 @@ This image illustrates the results of the simulation after various diffusion tim
 
 ![kwave_diffusion_radial](https://user-images.githubusercontent.com/53169576/120907005-38606900-c65e-11eb-8bf6-6b533309aed1.png)
 
+# Dependencies
+
+[Matlab](https://fr.mathworks.com/products/matlab.html)
+k-Wave Toolbox
+
+# Usage
+
 
