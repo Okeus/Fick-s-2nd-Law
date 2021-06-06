@@ -3,7 +3,7 @@ This project is describing a few various methods for solutions to the Wave Equat
 
 ∂C/∂t=D∇^2 C
 
-The equation is a 2nd Order, nonlinear partial differential equation. Three approaches are compared.  An exact analytical solution, a finite difference approach, and solution using a convolution kernel.
+The equation is a 2nd Order, nonlinear partial differential equation. Three approaches are compared.  An exact analytical solution, a finite difference approach, and solution using a convolution kernel.  The exact analytical solution is a bit simpler to implement for a few reasons.  The finite difference methods is simpler to derive, but the stability criteria tend to be troublesome for small simulation length scales and long simulation time scales.  Hence, the exact analytical solution is more time efficient and is presented here.
 
 # Exact Analytical Approach. kwave_diff.m
 This approach requires the k-wave toolbox and uses k-Wave bioHeatExact() function to solve the wave equation for oxygen diffusion in water.  The concept is to simulate oxygen diffusion from a Perfluorocarbon microdroplet, though this is a bit simplified generalize the method.  The solution is described in detail here.
