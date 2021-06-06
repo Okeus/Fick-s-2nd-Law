@@ -19,7 +19,8 @@ This image illustrates the results of the simulation after various diffusion tim
 # Dependencies
 
 [Matlab](https://fr.mathworks.com/products/matlab.html)
-k-Wave Toolbox
+
+[k-Wave Toolbox](http://www.k-wave.org/)
 
 # Usage
 
