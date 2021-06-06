@@ -14,7 +14,7 @@ Initial Condition.  Single droplet with radius of 1 micrometer that is saturated
 
 This image illustrates the results of the simulation after various diffusion times. It seems the oxygen would diffuse out of the droplet in about 10ms under these conditions.
 
-![image](https://user-images.githubusercontent.com/53169576/120919949-8c9a3600-c6bc-11eb-956f-2a1dae63d496.png)
+![image](https://user-images.githubusercontent.com/53169576/120919987-bbb0a780-c6bc-11eb-92cf-2e5dadfe115d.png)
 
 # Dependencies
 
